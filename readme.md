@@ -17,3 +17,10 @@
 
 ![docker-architecture](https://github.com/ModiconMe/docker/blob/main/diagrams/docker-architecture.png "docker-architecture")
 
+***
+### Cheat sheets
+
+* [pdf cheat sheet](https://linoxide.com/docker-commands-cheat-sheet/)
+* [full cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
+
+

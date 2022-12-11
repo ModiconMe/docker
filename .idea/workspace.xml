@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e9d933-368c-43b8-9402-c9d9c2fb9f99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/diagrams/docker-architecture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/docker-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/docker-port-exposing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/docker-volumes-types.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/docker-volumes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/containers.md" beforeDir="false" afterPath="$PROJECT_DIR$/containers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-volumes.md" beforeDir="false" afterPath="$PROJECT_DIR$/docker-volumes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
