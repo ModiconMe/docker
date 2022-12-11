@@ -15,6 +15,5 @@
 6. [Image repositories](https://github.com/ModiconMe/docker/blob/main/docker-repositories.md)
 7. [Docker compose](https://github.com/ModiconMe/docker/blob/main/docker-compose.md)
 
-![alt text](https://github.com/ModiconMe/advanced-database/blob/main/database.png "database")
+![docker-architecture](https://github.com/ModiconMe/docker/blob/main/diagrams/docker-architecture.png "docker-architecture")
 
-[create table and insert data](https://github.com/ModiconMe/advanced-database/blob/main/ddl.sql)
